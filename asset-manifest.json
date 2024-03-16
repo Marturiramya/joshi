@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/joshi/static/css/main.6eb57f4a.css",
+    "main.js": "/joshi/static/js/main.ce5b3dc0.js",
+    "static/js/453.1b6cbde4.chunk.js": "/joshi/static/js/453.1b6cbde4.chunk.js",
+    "index.html": "/joshi/index.html",
+    "main.6eb57f4a.css.map": "/joshi/static/css/main.6eb57f4a.css.map",
+    "main.ce5b3dc0.js.map": "/joshi/static/js/main.ce5b3dc0.js.map",
+    "453.1b6cbde4.chunk.js.map": "/joshi/static/js/453.1b6cbde4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6eb57f4a.css",
+    "static/js/main.ce5b3dc0.js"
+  ]
+}
